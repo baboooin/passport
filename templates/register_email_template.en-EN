@@ -1,0 +1,9 @@
+<!-- template.html -->
+<!DOCTYPE html>
+<html>
+<body>
+    <h3>Dear </h3><span>{{.Name}}</span><br/><br/>
+
+    <h3>You one time password:</h3><span>{{.Password}}</span><br/>
+</body>
+</html>
